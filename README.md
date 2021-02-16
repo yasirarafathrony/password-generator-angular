@@ -1,4 +1,4 @@
-# Pw
+# Passward generator app using Angular and Bulma CSS.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.0.
 
